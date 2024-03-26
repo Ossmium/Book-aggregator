@@ -1,0 +1,16 @@
+* {
+    font-family: Fira Sans, Roboto, system-ui, serif;
+}
+
+.genre {
+    text-decoration: none;
+}
+
+.genre:hover {
+    color: white;
+}
+
+.authors_list {
+    max-height: 170px;
+    overflow-y: scroll;
+}
